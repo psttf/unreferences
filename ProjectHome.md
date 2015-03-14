@@ -1,0 +1,36 @@
+Find unreferenced labels in LaTeX document
+
+# Usage #
+
+To find all unreferenced labels in a LaTeX file execute
+
+```
+RefCheck-1.0.exe <path_to_file>
+```
+
+A list of unused labels will be printed.
+
+The program searches labels in the standard form, i.e. defined by the command
+
+```
+\label{<label_name>}
+```
+
+as well as in the following form:
+
+```
+label=<label_name>
+```
+
+The latter form is used e.g. by floating listings ([listings](http://www.ctan.org/tex-archive/macros/latex/contrib/listings/) package).
+
+# Related projects #
+
+The main feature of this utility is that it finds labels in form of `label=<label_name>`. We do not know any other utility with such functionality.
+
+To find unused labels You can also use:
+
+  * [texref](http://www.ctan.org/pkg/texref)
+  * [chklref](http://www.ctan.org/pkg/chklref)
+  * [LyX](http://www.lyx.org/)
+  * [refcheck](http://www.ipme.ru/ipme/labs/mv/refcheck.sty)
