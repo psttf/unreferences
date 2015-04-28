@@ -22,7 +22,7 @@ as well as in the following form:
 label=<label_name>
 }}}
 
-The latter form is used e.g. by floating listings ([http://www.ctan.org/tex-archive/macros/latex/contrib/listings/ listings] package).
+The latter form is used e.g. by floating listings ([[http://www.ctan.org/tex-archive/macros/latex/contrib/listings/|listings]] package).
 
 =Related projects=
 
