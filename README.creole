@@ -30,7 +30,7 @@ The main feature of this utility is that it finds labels in form of {{{label=<la
 
 To find unused labels You can also use:
 
- * [http://www.ctan.org/pkg/texref texref]
- * [http://www.ctan.org/pkg/chklref chklref]
- * [http://www.lyx.org/ LyX]
- * [http://www.ipme.ru/ipme/labs/mv/refcheck.sty refcheck]
+ * [http://www.ctan.org/pkg/texref|texref]
+ * [http://www.ctan.org/pkg/chklref|chklref]
+ * [http://www.lyx.org/|LyX]
+ * [http://www.ipme.ru/ipme/labs/mv/refcheck.sty|refcheck]
